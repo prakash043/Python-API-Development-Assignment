@@ -9,7 +9,7 @@ $ apt install mysql-server
 $ pip3 install flask
 $ pip3 install pymysql
 
-Run the code which is uploaded above
+Download the code which is uploaded above
 
 $ cd Python-API-Development-Assignment
 $ mysql -u root -p < book.sql
